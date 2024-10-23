@@ -1,11 +1,6 @@
 // Azarya Duer
 // 29 September 2024
-// CSCI 1302 Section 002
-// Instructor: Dr. Eubanks
-//
 // Files: Legal.java
-//
-// Legal
 // In this program, user will input their information.
 // In return, program will tell user what is legal.
 
