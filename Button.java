@@ -1,11 +1,6 @@
 // Azarya Duer
 // 29 September 2024
-// CSCI 1302 Section 002
-// Instructor: Dr. Eubanks
-//
 // Files: Button.java
-//
-// Button
 // In this program, user will input information about a point, a circle and a rectangle.
 // Program will then tell if the given point is inside the rectangle or circle.
 
