@@ -1,11 +1,6 @@
 // Azarya Duer
 // 29 September 2024
-// CSCI 1302 Section 002
-// Instructor: Dr. Eubanks
-//
 // Files: Quiz.java
-//
-// Quiz
 // In this program, user will be asked questions.
 // After answering, program will display user's score.
 
